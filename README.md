@@ -1,0 +1,1 @@
+# sample-gorm-slog
